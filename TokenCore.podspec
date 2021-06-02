@@ -23,6 +23,6 @@ Pod::Spec.new do |s|
   s.dependency "BigInt", "~> 3.0.1"
   s.dependency "GRKOpenSSLFramework"
 #  s.dependency "CoreBitcoin"
-  s.dependency "CoreBitcoin", :podspec => 'https://raw.github.com/oleganza/CoreBitcoin/master/CoreBitcoin.podspec'
+#  s.dependency "CoreBitcoin", :podspec => 'https://raw.github.com/oleganza/CoreBitcoin/master/CoreBitcoin.podspec'
 
 end
